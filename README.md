@@ -40,7 +40,7 @@ The poetry is divided into distinct emotional chapters, each reflecting a unique
 ## 💾 *How to Access the Poetry*  
 
 - 📖 **View Online**: Browse chapters directly in this repository.  
-- 💻 **Download**: Clone the repository to read the entire collection offline.  
+- 💻 **Download**: Clone the repository to read the entire collection offline. Password raf14
 ---
 
 ## 🔗 *Connect with the Author*  
