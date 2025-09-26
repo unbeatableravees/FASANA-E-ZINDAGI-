@@ -41,15 +41,6 @@ The poetry is divided into distinct emotional chapters, each reflecting a unique
 
 - 📖 **View Online**: Browse chapters directly in this repository.  
 - 💻 **Download**: Clone the repository to read the entire collection offline.  
-
----
-
-## 📖 *Inspiration*  
-
-> *“For Muslims today, the Hijrah remains a reminder: That faith requires sacrifice.  
-> That unity brings strength. That trust in Allah can turn hardship into victory.”*  
-> — *Ahl al-Bayt (A Companion Work)*  
-
 ---
 
 ## 🔗 *Connect with the Author*  
